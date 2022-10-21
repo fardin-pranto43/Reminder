@@ -3,7 +3,8 @@ package com.blundell.tut.ui.phone;
 import android.app.Activity;
 import android.os.Bundle;
 
-import com.blundell.tut.R;
+
+import com.example.tut.R;
 
 /**
  * This is the activity that is started when the user presses the notification in the status bar

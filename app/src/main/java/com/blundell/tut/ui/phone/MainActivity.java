@@ -9,8 +9,9 @@ import android.view.View;
 import android.widget.DatePicker;
 import android.widget.Toast;
 
-import com.blundell.tut.R;
+
 import com.blundell.tut.service.ScheduleClient;
+import com.example.tut.R;
 
 /**
  * This is the Main Activity of our app.
